@@ -1,0 +1,15 @@
+{
+  "name": "reddit-listen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "firebase": "^4.8.1",
+    "moment": "^2.20.1",
+    "nodemon": "^1.14.3"
+  }
+}
